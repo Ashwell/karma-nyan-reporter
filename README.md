@@ -30,7 +30,7 @@ Options
 
 If you want to supress the stack trace at the end of the test run you can use the suppressStackTrace option.
 
-```
+```js
 // karma.conf.js
 module.exports = function(config) {
   config.set({
